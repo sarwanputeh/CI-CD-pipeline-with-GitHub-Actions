@@ -21,3 +21,6 @@ reft: 1.https://www.selfhost.life/cicd-with-github-action-and-runner/
 
 https://nakorndev.github.io/cheatsheet-git-graph/
 [Git For Orix Team.pdf](https://github.com/sarwanputeh/CI-CD-pipeline-with-GitHub-Actions/files/12067114/Git.For.Orix.Team.pdf)
+
+Image 
+https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability
