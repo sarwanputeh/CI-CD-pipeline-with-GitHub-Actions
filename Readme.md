@@ -17,3 +17,6 @@ reft: 1.https://www.selfhost.life/cicd-with-github-action-and-runner/
       2.https://cloud-ace.co.th/blogs/b3q9s1-ci-cd-github-actions-cloud-build
       3.Action https://github.com/marketplace 
       4.https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
+
+
+https://nakorndev.github.io/cheatsheet-git-graph/
