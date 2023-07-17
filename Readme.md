@@ -14,3 +14,4 @@ CD = continuous delivery
 
 
 reft:https://www.selfhost.life/cicd-with-github-action-and-runner/
+     https://cloud-ace.co.th/blogs/b3q9s1-ci-cd-github-actions-cloud-build
